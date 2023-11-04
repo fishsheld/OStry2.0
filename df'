@@ -1,0 +1,10 @@
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git://g.csail.mit.edu/xv6-labs-2020
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+remote.github.url=https://github.com/fishsheld/OStry.git
+remote.github.fetch=+refs/heads/*:refs/remotes/github/*
